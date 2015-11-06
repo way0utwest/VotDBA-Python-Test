@@ -1,0 +1,1 @@
+python c:\tools\send_tweet.py %1
